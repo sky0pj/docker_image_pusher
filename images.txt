@@ -2,3 +2,4 @@ jxxghp/moviepilot
 emby/embyserver:beta
 xiaoyaliu/alist
 mtphotos/mt-photos:latest
+hectorqin/reader
