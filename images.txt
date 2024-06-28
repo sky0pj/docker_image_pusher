@@ -8,4 +8,4 @@ deasmi/unraid-tailscale:latest
 jeessy/ddns-go
 jc21/nginx-proxy-manager
 linuxserver/heimdall:latest
-iyuucn/iyuuplus
+iyuucn/iyuuplus-dev:latest
