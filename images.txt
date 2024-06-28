@@ -1,2 +1,3 @@
 jxxghp/moviepilot
 emby/embyserver:beta
+xiaoyaliu/alist
