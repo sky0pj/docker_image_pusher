@@ -3,3 +3,9 @@ emby/embyserver:beta
 xiaoyaliu/alist
 mtphotos/mt-photos:latest
 hectorqin/reader
+linuxserver/qbittorrent:latest
+deasmi/unraid-tailscale:latest
+jeessy/ddns-go
+jc21/nginx-proxy-manager
+linuxserver/heimdall:latest
+iyuucn/iyuuplus
