@@ -9,3 +9,4 @@ jeessy/ddns-go
 jc21/nginx-proxy-manager
 linuxserver/heimdall:latest
 iyuucn/iyuuplus-dev:latest
+mtphotos/mt-photos-ai:latest
