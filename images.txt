@@ -10,3 +10,6 @@ jc21/nginx-proxy-manager
 linuxserver/heimdall:latest
 iyuucn/iyuuplus-dev:latest
 mtphotos/mt-photos-ai:latest
+flaresolverr/flaresolverr
+hotio/prowlarr:latest
+alexta69/metube
