@@ -13,3 +13,4 @@ mtphotos/mt-photos-ai:latest
 flaresolverr/flaresolverr
 hotio/prowlarr:latest
 alexta69/metube
+allanpk716/chinesesubfinder:latest
