@@ -14,3 +14,4 @@ flaresolverr/flaresolverr
 hotio/prowlarr:latest
 alexta69/metube
 allanpk716/chinesesubfinder:latest
+xhofe/alist:latest
