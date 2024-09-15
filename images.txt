@@ -16,3 +16,6 @@ alexta69/metube
 allanpk716/chinesesubfinder:latest
 xhofe/alist:latest
 filebrowser/filebrowser:latest
+mtphotos/mt-photos-deepface:noavx-latest
+mtphotos/mt-photos-ai:latest
+fanningert/aria2-with-ariang:latest
