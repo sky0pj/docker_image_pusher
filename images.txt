@@ -19,3 +19,4 @@ filebrowser/filebrowser:latest
 mtphotos/mt-photos-deepface:noavx-latest
 mtphotos/mt-photos-ai:latest
 fanningert/aria2-with-ariang:latest
+kodcloud/kodbox:latest
